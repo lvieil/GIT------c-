@@ -1,0 +1,9 @@
+c:\users\laurent\documents\visual studio 2013\Projects\Kappalculator\Kappalculator\bin\Debug\Kappalculator.exe.config
+c:\users\laurent\documents\visual studio 2013\Projects\Kappalculator\Kappalculator\bin\Debug\Kappalculator.exe
+c:\users\laurent\documents\visual studio 2013\Projects\Kappalculator\Kappalculator\bin\Debug\Kappalculator.pdb
+c:\users\laurent\documents\visual studio 2013\Projects\Kappalculator\Kappalculator\obj\Debug\Kappalculator.csprojResolveAssemblyReference.cache
+c:\users\laurent\documents\visual studio 2013\Projects\Kappalculator\Kappalculator\obj\Debug\Kappalculator.Form1.resources
+c:\users\laurent\documents\visual studio 2013\Projects\Kappalculator\Kappalculator\obj\Debug\Kappalculator.Properties.Resources.resources
+c:\users\laurent\documents\visual studio 2013\Projects\Kappalculator\Kappalculator\obj\Debug\Kappalculator.csproj.GenerateResource.Cache
+c:\users\laurent\documents\visual studio 2013\Projects\Kappalculator\Kappalculator\obj\Debug\Kappalculator.exe
+c:\users\laurent\documents\visual studio 2013\Projects\Kappalculator\Kappalculator\obj\Debug\Kappalculator.pdb
